@@ -1,4 +1,6 @@
 These are the top 3 positive employees for each month 
+     
+     
      level_0  index                         from    Month  MonthlyScore
 120      120    120      kayne.coulter@enron.com  2010-01             5
 168      168    168     patti.thompson@enron.com  2010-01             5
